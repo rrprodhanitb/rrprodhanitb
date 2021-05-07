@@ -6,7 +6,7 @@
 
 [//]: # (<strong>Portfolio site  </strong> https://rakibulalam109.github.io/MyPortfolio.github.io/) 
 
-- <strong>Reach out me  </strong> rrprodhan1@gmail.com
+- <strong>Reach out to me at </strong> rrprodhan1@gmail.com
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rrprodhan/)
