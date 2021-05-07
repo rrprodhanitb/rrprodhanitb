@@ -61,6 +61,7 @@
 <br/>
 <p></p>
 
+<img align="left" alt="Jupyter" height="31px" width="65px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img align="left" alt="Postman" height="31px" width="65px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img align="left" alt="Visual Studio Code" height="31px" width="65px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="Atom" height="31px" width="65px" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
@@ -82,8 +83,9 @@
 [comment]: <> (#### Office) 
 <img align="left" alt="Stack Overflow" height="31px" width="65px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img align="left" alt="MS Office" height="31px" width="65px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
 <br/>
-<br/>
+<p></p>
 <br/>
 
 [![Raiyan's github stats](https://github-readme-stats.vercel.app/api?username=rrprodhanitb&show_icons=true&theme=cobalt)](https://github.com/rrprodhanitb/github-readme-stats)
