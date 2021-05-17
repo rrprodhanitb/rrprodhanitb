@@ -3,7 +3,7 @@
   - Responsibilities:
     - I build web applications with HTML, CSS, SASS, JavaScript, TypeScript, Bootstrap, Node.js, Angular, NestJS, PostgreSQL, Knex.js, Swagger API, Docker, Kubernetes and Object-Oriented Programming Principles.
 - I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
-- I've a published research paper entitled "Analyzing and Evaluating Boosting-Based CNN Algorithms for Image Classification" which was presented at the IEEE International Conference on Intelligent Technologies (CONIT 2021), 25-27 June, 2021, Karnataka, India
+- I've a published research paper titled "Analyzing and Evaluating Boosting-Based CNN Algorithms for Image Classification" which was presented at the IEEE International Conference on Intelligent Technologies (CONIT 2021), 25-27 June, 2021, Karnataka, India
 - I've experience of managing digital platforms of 20 reputed brands: 
   - Samsung Bangladesh, Robi Axiata Ltd., Airtel Buzz, Hayes & Haier, Marico Bangladesh, Matador, Elite Paint, EBL Smart Women's Account, Apex Footwear, Shwapno, Aarong Dairy, TakeOut, Miyako, Golden Harvest, Meena Click, 2Go Bangladesh, ShopUp, Ribana, NITS Service (Pvt.) Ltd, Marks 
 - My hobbies are reading books and cooking
