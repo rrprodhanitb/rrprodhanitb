@@ -1,5 +1,5 @@
 ### Hi! I'm Raiyan Rashid Prodhan
-- I'm a Software Engineer Intern at Intelletive Technologies Bangladesh
+- I'm a Junior Software Engineer at Intelletive Technologies Bangladesh
   - Responsibilities:
     - I build web applications with HTML, CSS, SASS, JavaScript, TypeScript, Bootstrap, Node.js, Angular, NestJS, PostgreSQL, Knex.js, Swagger API, Docker, Kubernetes and Object-Oriented Programming Principles.
 - I graduated in Computer Science and Engineering with a CGPA of 3.5 from East West University
